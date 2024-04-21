@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scalp Scrubber Shampoo Brush Massager</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header>
+    <h1>Scalp Scrubber Shampoo Brush Massager</h1>
+    <p>Clean Scalp Comb With Handle Hair Washing Brush Scalp Exfoliator Brush Head Scrubber Tools</p>
+  </header>
+
+  <main>
+    <div class="product-info">
+      <div class="product-image">
+        <img src="scrubber.jpg" alt="Scalp Scrubber Shampoo Brush Massager">
+      </div>
+      <div class="product-details">
+        <h2>Product Details:</h2>
+        <ul>
+          <li>$2.19 <s>$9.88</s> -77%</li>
+          <li>Free shipping</li>
+          <li>Fast delivery by Apr 28 - May 01</li>
+          <li>Delivery guarantee $1.00 coupon code for late delivery</li>
+          <li>Free returns within 90 days, no questions asked</li>
+        </ul>
+        <h3>Specifications:</h3>
+        <ul>
+          <li>Item Type: Comb</li>
+          <li>Origin: Mainland China</li>
+          <li>Description: Head massage, dual use dry and wet, soft silicone, without damaging the scalp. Deep cleaning, comfortable and labor-saving grip.</li>
+          <li>Material: ABS+TPE+Silicone</li>
+          <li>Size: See option diagram</li>
+        </ul>
+        <a href="#" class="btn">Buy Now</a>
+      </div>
+    </div>
+
+    <div class="customer-reviews">
+      <h2>Customer Reviews:</h2>
+      <div class="review">
+        <p><strong>5 stars</strong> - Perfect color, bigger than I had thought it would be... Will work great !!! The picture of the scrubber in my hand is the same exact scrubber. I only ordered 1...but due to different angle and lighting the colors look different.....</p>
+        <p><strong>Helpful (3)</strong></p>
+        <p><em>06 Nov 2023</em></p>
+      </div>
+      <div class="review">
+        <p><strong>4 stars</strong> - Works good and works like it’s cleaning and scraping my scalp</p>
+        <p><strong>Helpful (0)</strong></p>
+        <p><em>14 Apr 2024</em></p>
+      </div>
+      <div class="review">
+        <p><strong>4 stars</strong> - Used this today to oil my scalp. I like it very much. It works as expected. There are no moving parts in it, so it can't break down, which is definitely a plus.</p>
+        <p><strong>Helpful (1)</strong></p>
+        <p><em>16 Apr 2024</em></p>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <p>Safe payments - Security & privacy - Buyer protection</p>
+  </footer>
+
+</body>
+</html>
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header, footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+main {
+  padding: 20px;
+}
+
+.product-info {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.product-image img {
+  max-width: 100%;
+}
+
+.product-details ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.customer-reviews {
+  border-top: 2px solid #333;
+  margin-top: 20px;
+}
+
+.review {
+  margin-bottom: 20px;
+}
+
+.btn {
+  display: inline-block;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.btn:hover {
+  background-color: #555;
+}
